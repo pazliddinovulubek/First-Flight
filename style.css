@@ -680,11 +680,14 @@ footer {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    width: 400px;
+
   }
 
   .card {
     display: flex;
     flex-direction: column;
+    
     text-align: center;
   }
 
@@ -730,6 +733,7 @@ footer {
     grid-template-columns: 1fr 1fr;
     overflow: auto;
     margin-top: 240px;
+    
 
   }
 
@@ -746,11 +750,14 @@ footer {
   section {
     background: black;
     overflow: hidden;
+    width: 400px;
+
   }
 
   .section-card {
     display: flex;
     flex-wrap: wrap;
+
   }
 
   .section-card-thre {
@@ -770,10 +777,13 @@ footer {
     display: flex;
     flex-wrap: wrap;
     overflow: hidden;
+    width: 400px;
+
   }
 
   .card-section {
     background: #1B1B1B;
+    
   }
 
 
@@ -795,6 +805,8 @@ footer {
   .bottom-cards-text{
     display: flex;
     flex-wrap: wrap;
+    width: 400px;
+
   }
   .card-img-text{
     display: flex;
